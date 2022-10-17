@@ -1,19 +1,30 @@
+<h1 align="center">Hi 👋, I'm Talha</h1>
+<h3 align="center">Software Engineer / Front-End Developer</h3>
+
 <!-- [![Twitter Badge](https://img.shields.io/twitter/follow/bluntly_talha?style=plastic)](https://twitter.com/bluntly_talha) -->
 <!-- ![Github Badge](https://img.shields.io/github/stars/jbtalhakhan?affiliations=OWNER) -->
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00) -->
 <!-- ![](https://komarev.com/ghpvc/?username=jbtalhakhan&label=Visitors+Count&color=brightgreen) -->
 
-## 🌐Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talharafique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/talhaoncoffee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bluntly_talha) 
 
-# 💻Tech Stack
+## Languages and Tools:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) !  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-### Hi there 👋
 
 
 <!-- - 🔭 I’m currently working on ...
@@ -25,9 +36,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full Stack Software Developer
-- 🎓 Studied Electrical Engineering, class of 2019
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚘𝚛 UChicago Medicine!
@@ -41,13 +49,12 @@
 	- 𝙶𝚎𝚝 into 𝙵𝙰𝙰𝙽𝙶𝙼+ (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛, 𝚙𝚕𝚎𝚊𝚜𝚎 get in touch)
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- NaN !== NaN
-	- this in JS
 	
 
-# 📊GitHub Stats :
+<!-- # 📊GitHub Stats : -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jbtalhakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jbtalhakhan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtalhakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jbtalhakhan&theme=radical&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtalhakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -86,5 +93,7 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Talha on Twitter"/>](https://twitter.com/bluntly_talha)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Talha on Instagram"/>](https://instagram.com/jb_talha_khan) -->
 
+<!--
 ## My Dev Card
 <a href="https://app.daily.dev/jbtalhakhan"><img src="https://github.com/jbtalhakhan/jbtalhakhan/blob/main/devcard.svg" width="400" alt="JB Talha Khan's Dev Card"/></a>
+-->
