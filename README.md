@@ -6,8 +6,8 @@
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00) -->
 <!-- ![](https://komarev.com/ghpvc/?username=jbtalhakhan&label=Visitors+Count&color=brightgreen) -->
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talharafique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/talhaoncoffee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bluntly_talha) 
+<!-- ## Socials -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talharafique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/talhaoncoffee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bluntly_talha)  -->
 
 ## Languages and Tools:
 
