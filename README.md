@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">Software Engineer / Front-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!-- [![Twitter Badge](https://img.shields.io/twitter/follow/bluntly_talha?style=plastic)](https://twitter.com/bluntly_talha) -->
 <!-- ![Github Badge](https://img.shields.io/github/stars/jbtalhakhan?affiliations=OWNER) -->
