@@ -29,9 +29,9 @@
 -->
 
 <!-- - 🔭 I’m currently working on some -->
-- ⚡ Tech I know: JS/TS, MERN, Next.js, Firebase, PostgreSQL, Tailwind
-- 🌱 I’m currently learning DevSecOps, Vue.js and Nest.js
-- 👯 I’m looking to collaborate on any great idea for social empowerment
+- ⚡ Tech I know: JS/TS, MERN, Next.js, Nest.js, Firebase, PostgreSQL, Tailwind
+- 🌱 I’m currently learning DevSecOps & Agents Development 
+- 👯 I’m looking to collaborate on innovative ideas
 - 🤔 I’m looking for help with NaN != NaN
 - 💬 Ask me about snooker and startup culture
 - 📫 How to reach me: https://linkedin.com/in/talharafique
