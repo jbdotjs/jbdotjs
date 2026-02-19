@@ -37,6 +37,13 @@
 - 📫 How to reach me: https://linkedin.com/in/talharafique
 <!-- ⚡ Fun fact: -->
 
+### Projects
+
+- [Acting Assistant HR](https://actingassistant.com/hr)
+- [Acting Assistant Finance](https://actingassistant.com)
+- [Workcamp](https://workcamp.app)
+- [AI360Retail](https://ai360retail.com)
+
 <!--
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
  - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚘𝚛 UChicago Medicine!
