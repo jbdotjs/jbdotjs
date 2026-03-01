@@ -10,19 +10,19 @@
 
 ### Projects
 
-- [Acting Assistant HR](https://actingassistant.com/hr)
-- [Acting Assistant Finance](https://actingassistant.com)
-- [Workcamp](https://workcamp.app)
-- [AI360Retail](https://ai360retail.com)
+- [Acting Assistant HR](https://actingassistant.com/hr) - 360° recruitement solution
+- [Acting Assistant Finance](https://actingassistant.com) - talk to your finances
+- [Workcamp](https://workcamp.app) - everything app for your organization
+- [AI360Retail](https://ai360retail.com) - 360° retail solution
 
 ### Lab
 
-- [Web Parser](https://github.com/jbdotjs/web-parser)
-- [Shell Utilities](https://github.com/jbdotjs/shell-utilities)
-- [12 Factor Checklist](https://github.com/jbdotjs/12factor-checklist)
-- [Brainrot JS](https://github.com/jbdotjs/brainrot-js-playground)
-- [PyStudy](https://github.com/jbdotjs/pystudy)
-- [AES CryptoJS](https://github.com/jbdotjs/aes-cryptojs-poc)
+- [Web Parser](https://github.com/jbdotjs/web-parser) - 12x faster parser for Node written in Rust
+- [Shell Utilities](https://github.com/jbdotjs/shell-utilities) - custom shell utilities for dev productivity
+- [12 Factor Checklist](https://github.com/jbdotjs/12factor-checklist) - checklist to build better apps
+- [Brainrot JS](https://github.com/jbdotjs/brainrot-js-playground) - write JavaScript in GenZ slang
+- [PyStudy](https://github.com/jbdotjs/pystudy) - crash course for Python
+- [AES CryptoJS](https://github.com/jbdotjs/aes-cryptojs-poc) - encryption & decryption tool
 
 
 ### ✍️
